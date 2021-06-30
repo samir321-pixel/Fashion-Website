@@ -9,3 +9,13 @@
 * Frontend
   * HTML
   * CSS
+
+
+## 🚀&nbsp; Setup Instructions
+
+First, clone the repository to your local machine:
+
+```bash
+git clone  git@github.com:https://github.com/samir321-pixel/Fashion-Website.git
+```
+
