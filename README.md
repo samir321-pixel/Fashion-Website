@@ -28,5 +28,14 @@ Finally, run index.html:
 | :---------: | :---------: | :---------: | :---------: | :---------: |
 | Yes | 10+ | Yes | Yes | Yes |
 
+
+## Like This?? Star ⭐ this Repo.
+
+[![forthebadge](https://github.com/samir321-pixel/Fashion-Website.git)
+
+> Made By Samir Saitwal with ❤️
+
+> Samir Saitwal &copy; 2021
+<br><br>
 ## Project Admin
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/samir321-pixel)
