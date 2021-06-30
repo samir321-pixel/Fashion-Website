@@ -29,6 +29,11 @@ Finally, run index.html:
 | Yes | 10+ | Yes | Yes | Yes |
 
 
+***
+## Useful Resources
+- [Git and GitHub](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide)
+- [Getting Started – HTML](https://devdocs.io/html/)
+
 ## Like This?? Star ⭐ this Repo.
 
 [![forthebadge](https://github.com/samir321-pixel/Fashion-Website.git)
