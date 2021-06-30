@@ -36,7 +36,7 @@ Finally, run index.html:
 
 ## Like This?? Star ⭐ this Repo.
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/samir321-pixel/Fashion-Website.git)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://github.com/samir321-pixel/Fashion-Website.git)
 
 > Made By Samir Saitwal with ❤️
 
