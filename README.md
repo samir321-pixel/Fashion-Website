@@ -19,3 +19,7 @@ First, clone the repository to your local machine:
 git clone  git@github.com:https://github.com/samir321-pixel/Fashion-Website.git
 ```
 
+
+# Done!
+Finally, run index.html:
+
