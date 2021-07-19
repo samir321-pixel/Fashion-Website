@@ -221,3 +221,26 @@
     margin-top: 20px;
     font-weight:bold;
 }
+
+.fashion-brands{
+    margin-bottom: 150px;
+}
+
+.brand-logo{
+    width: 200px;
+    height: 200px;
+    background: #fff;
+    border-radius: 50%;
+    margin: 50px auto 30px;
+    box-shadow: 0 2px 40px 0 rgba(110, 130,208,.18 );
+}
+
+.brand-logo img{
+    width: 100px;
+    margin: 50px auto;
+}
+
+.fashion-brands p{
+    margin-top: 30px;
+    font-weight: bold;
+}
