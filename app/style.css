@@ -244,3 +244,44 @@
     margin-top: 30px;
     font-weight: bold;
 }
+
+.footer{
+    margin-top: 150px;
+    background: #f5f6fc;
+}
+
+.payment,.insta-img, .app-download{
+    margin: 50px auto;
+}
+
+.payment img{
+    width: 300px;
+    cursor: pointer;
+}
+
+.insta-img img{
+    width: 75px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.app-download img{
+    width: 200px;
+
+}
+
+.footer h5{
+    margin-bottom: 50px;
+}
+
+
+.footer h5::before{
+    content: '';
+    width: 70px;
+    height: 3px;
+    background: #4f74ed;
+    top: 80px;
+    position: absolute;
+}
+
+
