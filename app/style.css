@@ -200,3 +200,24 @@
     margin-bottom: -100px;
     margin-top: 150px;
 }
+
+.fashion-blog{
+    margin: 250px 0 150px 0;
+}
+
+.blog-img{
+    margin-top: 50px;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+
+.blog-img img{
+    width: 100%;
+    height: 100%;
+}
+
+.fashion-blog h5{
+    margin-top: 20px;
+    font-weight:bold;
+}
