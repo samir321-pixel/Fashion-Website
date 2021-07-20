@@ -285,3 +285,43 @@
 }
 
 
+.footer-icons{
+    text-align: right;
+}
+
+.footer-icons .fa{
+    margin: 0 10px auto;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:900px){
+    .banner-img{
+        margin: 40px auto;
+        width: 80%;
+    }
+    .banner-title{
+        top: 180px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .banner-title h1{
+        font-size: 16px;
+        padding: 5px;
+        line-height: 20px;
+    }
+    .title-style h1{
+        padding: 40px 0;
+        font-size: 25px;
+    }
+    .offer img{
+        margin-top: 20px !important;
+        margin-bottom: 0 !important;
+    }
+    .footer-icons{
+        text-align: center;
+    }
+    .copyright{
+        text-align: center;
+    }
+}
