@@ -24,6 +24,7 @@ git clone  git@github.com:https://github.com/samir321-pixel/Fashion-Website.git
 Finally, run index.html:
 
 # Screenshots 
+
 ![Capture](https://user-images.githubusercontent.com/65664404/126194256-bc24996a-2c14-4ba7-82ca-0dcbd7eab680.PNG)
 
 ![Capture](https://user-images.githubusercontent.com/65664404/126194531-a6192e0e-a774-4d87-a4f3-cde9985ec335.PNG)
@@ -33,6 +34,9 @@ Finally, run index.html:
 ![Capture](https://user-images.githubusercontent.com/65664404/126194679-d0332021-8677-4f13-bc62-e083276b5b0c.PNG)
 
 ![Capture](https://user-images.githubusercontent.com/65664404/126194741-0f22ac3c-07fe-4f3b-8b05-e693fadecaba.PNG)
+
+![Capture](https://user-images.githubusercontent.com/65664404/126346167-7a67adc3-f351-49c6-8ee4-39400658a2e6.PNG)
+
 
 ## 🌏 Browser Support
 
@@ -56,3 +60,24 @@ Finally, run index.html:
 <br><br>
 ## Project Admin
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/samir321-pixel)
+
+> **_Need help?_ 🤔** 
+> **_Feel free to contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_**
+
+
+## Like This?? Star ⭐ this Repo.
+
+## 👮 **_For Help contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_** 👮
+
+
+> Samir Saitwal &copy; 2021
+<br><br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/samir321-pixel)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/samir321-pixel)
+
+***
+## 📘 Useful Resources 📘
+- [HTML Docs](https://devdocs.io/html/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScripts](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Git and GitHub](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide)
